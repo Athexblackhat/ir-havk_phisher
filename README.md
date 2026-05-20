@@ -336,13 +336,8 @@ flowchart TD
     style H fill:#00ff00
 ```    
 
-[!CAUTION]
+## [!CAUTION]
 The developer is not responsible for any misuse of this tool. Use at your own risk and only on systems you own or have explicit permission to test.
-
-🏆 Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?Athexblackhat=Athexblackhat&theme=matrix&no-frame=true&row=1&column=7" alt="Trophies"> </p>
-📊 Repository Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?Athexblackhat=Athexblackhat&show_icons=true&theme=radical&repo=ir-havk_phisher" alt="GitHub Stats"> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Athexblackhat&theme=dark" alt="Streak Stats"> </p>
 
 <div align="center">
 💖 Support This Project
